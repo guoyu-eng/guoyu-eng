@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 >>> guoyu-eng.dev_devices
 [ "Macbook Pro"]
 ```
+<div>
 
+  ![Top-langs](https://gh-stats.343.re/api/top-langs?username=guoyu-eng&langs_count=8&hide=html,css&layout=compact&bg_color=FFFFFF)
+  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -36,11 +40,7 @@ Here are some ideas to get you started:
 </picture>
 
 
-<div>
 
-  ![Top-langs](https://gh-stats.343.re/api/top-langs?username=guoyu-eng&langs_count=8&hide=html,css&layout=compact&bg_color=FFFFFF)
-  
-</div>
 
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
