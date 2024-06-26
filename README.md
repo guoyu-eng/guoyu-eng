@@ -5,17 +5,21 @@
 
 Here are some ideas to get you started:
 
+
 ```python
->>> import guoyu-eng
-"Hi, I'm Henry! Nice to meet you!"
->>> guoyu-eng.name
-['guoyu-eng', ]
->>> guoyu-eng.interests
+>>> import Henry
+"Hi, I'm Henry! Glad to meet you!"
+>>> Henry.name
+['Henry', 'Guoyu']
+>>> Henry.interests
 ['Solo-Trip✈️', ' Frisbee🥏', ' Photograph📷']
->>> guoyu-eng.degree
+>>> Henry.degree
 ['MSc in Advanced Computer Science', 'BSc in Computer Science & Artificial Intelligent']
->>> guoyu-eng.dev_devices
+>>> Henry.dev_devices
 [ "Macbook Pro"]
+```
+
+
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
