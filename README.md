@@ -6,9 +6,19 @@
 Here are some ideas to get you started:
 
 
+
+
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+```
+-->
+
 ```python
 >>> import Henry
-"Hi, I'm Henry! Glad to meet you!"
+"Hi, I'm Henry! Nice to meet you!"
 >>> Henry.name
 ['Henry', 'Guoyu']
 >>> Henry.interests
@@ -19,17 +29,6 @@ Here are some ideas to get you started:
 [ "Macbook Pro"]
 ```
 
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
--->
-- 🔭 Hi, I'm Henry! Nice to meet you!
-- 🌱 'MSc in Advanced Computer Science', 'BSc in Computer Science & Artificial Intelligent'
-- 👯 'Solo-Trip✈️', ' Frisbee🥏', ' Photograph📷'
 
 
 
