@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 
 
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
--->
-- 🔭 Hi, I'm Henry! Nice to meet you!
-- 🌱 'MSc in Advanced Computer Science', 'BSc in Computer Science & Artificial Intelligent'
-- 👯 'Solo-Trip✈️', ' Frisbee🥏', ' Photograph📷'
 
 
 
