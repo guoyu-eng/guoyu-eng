@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ```python
->>> import Henry
+>>> import Leo
 "Hi, I'm Henry! Nice to meet you!"
 >>> Henry.name
 ['Henry', 'Guoyu']
