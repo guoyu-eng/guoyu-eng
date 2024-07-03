@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ```python
 >>> import Leo
-"Hi, I'm Henry! Nice to meet you!"
->>> Henry.name
-['Henry', 'Guoyu']
+"Hi, I'm Leo! Nice to meet you!"
+>>> Leo.name
+['Leo', 'Guoyu']
 >>> Henry.interests
 ['Solo-Trip✈️', ' Frisbee🥏', ' Photograph📷']
 >>> Henry.degree
